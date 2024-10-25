@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Ribbon Config ID</description>
+        <name>ribbonConfigId</name>
+        <page display_value="">1ce3e1237bd952107bfffb9514a47bbc</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-23 08:12:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>10e3e12377d952106c30d66a51475293</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="To Do" source="x_1549643_to_do">c42dada1c3d9121081b5fd0ed4013109</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</sys_scope>
+        <sys_update_name>sys_ux_page_property_10e3e12377d952106c30d66a51475293</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-23 08:12:29</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1549643_to_do.1ce3e1237bd952107bfffb9514a47bbc.root.ribbonConfigId</unique_name>
+        <value>94e3e12336d952105365683842181e93</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</application>
+        <file_path/>
+        <instance_id>630303081bdd029c77c7cb7b234bcbb9</instance_id>
+        <instance_name>dev250161</instance_name>
+        <name>sys_ux_page_property_10e3e12377d952106c30d66a51475293</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Ribbon Config ID</description><name>ribbonConfigId</name><page display_value="">1ce3e1237bd952107bfffb9514a47bbc</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-23 08:12:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>10e3e12377d952106c30d66a51475293</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ribbonConfigId</sys_name><sys_package display_value="To Do" source="x_1549643_to_do">c42dada1c3d9121081b5fd0ed4013109</sys_package><sys_policy/><sys_scope display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</sys_scope><sys_update_name>sys_ux_page_property_10e3e12377d952106c30d66a51475293</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-23 08:12:29</sys_updated_on><type>string</type><unique_name>x_1549643_to_do.1ce3e1237bd952107bfffb9514a47bbc.root.ribbonConfigId</unique_name><value>94e3e12336d952105365683842181e93</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-2006138455</payload_hash>
+        <record_name>ribbonConfigId</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-23 09:12:07</sys_created_on>
+        <sys_id>968139e3c31d521081b5fd0ed401314a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192b8a5ceea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-23 09:12:07</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>568139e39f1d52105ebbeb9e3dfe5e4a</update_guid>
+        <update_guid_history>568139e39f1d52105ebbeb9e3dfe5e4a:-2006138455</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-23 09:12:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>7ae6a2b722db430088c22643e2684000</sys_id>
+        <sys_metadata>10e3e12377d952106c30d66a51475293</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="To Do" source="x_1549643_to_do">c42dada1c3d9121081b5fd0ed4013109</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</sys_scope>
+        <sys_scope_delete display_value="">0c8f66940ecb422d833a9bcb77457b09</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_10e3e12377d952106c30d66a51475293</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_10e3e12377d952106c30d66a51475293">968139e3c31d521081b5fd0ed401314a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-23 09:12:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

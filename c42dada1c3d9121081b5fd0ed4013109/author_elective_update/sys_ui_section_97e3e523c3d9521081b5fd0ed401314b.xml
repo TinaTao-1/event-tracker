@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="97e3e523c3d9521081b5fd0ed401314b" sys_domain="global" table="x_1549643_to_do_to_do_project" version="3" view="workspace-to-do-workspace-0">
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1549643_to_do_to_do_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-23 08:12:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97e3e523c3d9521081b5fd0ed401314b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1549643_to_do_to_do_project</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="To Do" source="x_1549643_to_do">c42dada1c3d9121081b5fd0ed4013109</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</sys_scope>
+            <sys_update_name>sys_ui_section_97e3e523c3d9521081b5fd0ed401314b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-23 08:12:39</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace To Do Workspace 0" name="workspace-to-do-workspace-0">58e3e12373d952105240a5d08de8e099</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</application>
+        <file_path/>
+        <instance_id>630303081bdd029c77c7cb7b234bcbb9</instance_id>
+        <instance_name>dev250161</instance_name>
+        <name>sys_ui_section_97e3e523c3d9521081b5fd0ed401314b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="97e3e523c3d9521081b5fd0ed401314b" sys_domain="global" table="x_1549643_to_do_to_do_project" version="3" view="workspace-to-do-workspace-0"><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1549643_to_do_to_do_project</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-23 08:12:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>97e3e523c3d9521081b5fd0ed401314b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1549643_to_do_to_do_project</sys_name><sys_overrides/><sys_package display_value="To Do" source="x_1549643_to_do">c42dada1c3d9121081b5fd0ed4013109</sys_package><sys_policy/><sys_scope display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</sys_scope><sys_update_name>sys_ui_section_97e3e523c3d9521081b5fd0ed401314b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-23 08:12:39</sys_updated_on><sys_user/><title>true</title><view display_value="Workspace To Do Workspace 0" name="workspace-to-do-workspace-0">58e3e12373d952105240a5d08de8e099</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-120510777</payload_hash>
+        <record_name>To Do Project</record_name>
+        <reverted_from/>
+        <source>582dada1c3d9121081b5fd0ed401310d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-23 08:12:39</sys_created_on>
+        <sys_id>93e3e523c3d9521081b5fd0ed40131cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192b86f5f080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-23 08:12:39</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1be3e5238dd95210ff451e2f140602cb</update_guid>
+        <update_guid_history>1be3e5238dd95210ff451e2f140602cb:-120510777</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-23 09:12:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0f3197e03a4143b886ae1fb9624b7490</sys_id>
+        <sys_metadata>97e3e523c3d9521081b5fd0ed401314b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1549643_to_do_to_do_project</sys_name>
+        <sys_package display_value="To Do" source="x_1549643_to_do">c42dada1c3d9121081b5fd0ed4013109</sys_package>
+        <sys_parent display_value="To Do To Do Project">6602355fc3d5121081b5fd0ed40131c7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</sys_scope>
+        <sys_scope_delete display_value="">0c8f66940ecb422d833a9bcb77457b09</sys_scope_delete>
+        <sys_update_name>sys_ui_section_97e3e523c3d9521081b5fd0ed401314b</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_97e3e523c3d9521081b5fd0ed401314b">93e3e523c3d9521081b5fd0ed40131cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-23 09:12:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

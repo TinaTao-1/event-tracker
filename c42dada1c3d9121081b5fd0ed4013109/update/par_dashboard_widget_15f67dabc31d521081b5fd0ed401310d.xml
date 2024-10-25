@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">13127527581d521074cdc4d125f7697b</canvas>
+        <component display_value="Pie">96abe7e38d8790718022c5630a92176c</component>
+        <component_props>{"selectedElements":[],"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"To Do","sourceType":"table","tableOrViewName":"x_1549643_to_do_to_do","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzE1NDk2NDNfdG9fZG9fdG9fZG8xNzI5Njc2MDYxMjUy","dataCategories":["trend","group","simple"]}],"showHeader":false,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4XzE1NDk2NDNfdG9fZG9fdG9fZG8xNzI5Njc2MDYxMjUy","id":"ZEdGaWJHVjRYekUxTkRrMk5ETmZkRzlmWkc5ZmRHOWZaRzh4TnpJNU5qYzJNRFl4TWpVeTE3Mjk2NzYwNjM1MDI=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV4XzE1NDk2NDNfdG9fZG9fdG9fZG8xNzI5Njc2MDYxMjUy","groupByField":"project","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"ltm8jopd","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"id":"showHeader","value":false,"noDebounce":true,"propLabel":"Show header"}</component_props>
+        <h>10</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-23 09:35:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>15f67dabc31d521081b5fd0ed401310d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_1549643_to_do">c42dada1c3d9121081b5fd0ed4013109</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</sys_scope>
+        <sys_update_name>par_dashboard_widget_15f67dabc31d521081b5fd0ed401310d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-23 09:37:53</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>12</y>
+    </par_dashboard_widget>
+</record_update>

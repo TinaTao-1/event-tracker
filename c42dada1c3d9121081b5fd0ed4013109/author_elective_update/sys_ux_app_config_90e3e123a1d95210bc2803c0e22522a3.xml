@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>A Workspace to manage To Do Workspace</description>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>To Do Workspace App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-23 08:12:28</sys_created_on>
+        <sys_id>90e3e123a1d95210bc2803c0e22522a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Workspace App Config</sys_name>
+        <sys_package display_value="To Do" source="x_1549643_to_do">c42dada1c3d9121081b5fd0ed4013109</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</sys_scope>
+        <sys_update_name>sys_ux_app_config_90e3e123a1d95210bc2803c0e22522a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-23 08:12:28</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</application>
+        <file_path/>
+        <instance_id>630303081bdd029c77c7cb7b234bcbb9</instance_id>
+        <instance_name>dev250161</instance_name>
+        <name>sys_ux_app_config_90e3e123a1d95210bc2803c0e22522a3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description>A Workspace to manage To Do Workspace</description><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>To Do Workspace App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-23 08:12:28</sys_created_on><sys_id>90e3e123a1d95210bc2803c0e22522a3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>To Do Workspace App Config</sys_name><sys_package display_value="To Do" source="x_1549643_to_do">c42dada1c3d9121081b5fd0ed4013109</sys_package><sys_policy/><sys_scope display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</sys_scope><sys_update_name>sys_ux_app_config_90e3e123a1d95210bc2803c0e22522a3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-23 08:12:28</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>-1720652957</payload_hash>
+        <record_name>To Do Workspace App Config</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-23 09:12:08</sys_created_on>
+        <sys_id>ea8139e3c31d521081b5fd0ed40131cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192b8a5d2e70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-23 09:12:08</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>aa8139e3781d52107bb53af4e403b4cd</update_guid>
+        <update_guid_history>aa8139e3781d52107bb53af4e403b4cd:-1720652957</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-23 09:12:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>55c15089f3764985af29cbfe7888a611</sys_id>
+        <sys_metadata>90e3e123a1d95210bc2803c0e22522a3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Workspace App Config</sys_name>
+        <sys_package display_value="To Do" source="x_1549643_to_do">c42dada1c3d9121081b5fd0ed4013109</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</sys_scope>
+        <sys_scope_delete display_value="">0c8f66940ecb422d833a9bcb77457b09</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_90e3e123a1d95210bc2803c0e22522a3</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_90e3e123a1d95210bc2803c0e22522a3">ea8139e3c31d521081b5fd0ed40131cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-23 09:12:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

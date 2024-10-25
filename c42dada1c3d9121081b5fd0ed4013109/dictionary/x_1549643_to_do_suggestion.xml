@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a53ccd5fc315121081b5fd0ed401313f" label="Suggestion" max_length="40" name="x_1549643_to_do_suggestion" text_index="true" type="collection">
+        <element label="Submission Date" max_length="40" name="submission_date" type="glide_date"/>
+        <element default="No Meeting Wednesdays" display="true" label="Suggestion" max_length="150" name="suggestion" type="string"/>
+        <element label="Closed Date" max_length="40" name="closed_date" type="glide_date"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Implemented" sequence="3" value="Implemented"/>
+                <element inactive_on_update="false" label="Under Review" sequence="1" value="Under Review"/>
+                <element inactive_on_update="false" label="Deferred" sequence="4" value="Deferred"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+                <element inactive_on_update="false" label="Declined" sequence="5" value="Declined"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="In Progress"/>
+            </choice>
+        </element>
+        <element label="Submitter" max_length="32" name="submitter" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="submitter"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

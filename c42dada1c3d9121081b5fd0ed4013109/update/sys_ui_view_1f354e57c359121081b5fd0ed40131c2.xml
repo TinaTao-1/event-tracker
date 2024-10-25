@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Progress_and_Importance_section</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 15:59:43</sys_created_on>
+        <sys_id>1f354e57c359121081b5fd0ed40131c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Progress and Importance section</sys_name>
+        <sys_package display_value="To Do" source="x_1549643_to_do">c42dada1c3d9121081b5fd0ed4013109</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">c42dada1c3d9121081b5fd0ed4013109</sys_scope>
+        <sys_update_name>sys_ui_view_1f354e57c359121081b5fd0ed40131c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 15:59:43</sys_updated_on>
+        <title>Progress and Importance section</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
